@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="calc">Calculator</string>
+    <string name="firstNum">Enter the first Number</string>
+    <string name="secondNum">Enter the second Number</string>
+    <string name="result">Result</string>
+    <string name="add">ADD</string>
+    <string name="sub">SUB</string>
+    <string name="mul">MULTIPLE</string>
+    <string name="div">DIVIDE</string>
+    <string name="result_value">%.2f</string>
+</resources>
